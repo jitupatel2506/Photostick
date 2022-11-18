@@ -5,9 +5,9 @@
     "fb_mid_rect": "905462013506528_905465213506208",
     "admob_pub_id": "pub-8532501034568787",
     "admob_app_id": "ca-app-pub-8532501034568787~7031086249",
-    "admob_banner": "ca-app-pub-8532501034568787/5582273204",
-    "admob_interstitial": "ca-app-pub-8532501034568787/4269191530",
-    "admob_native": "ca-app-pub-8532501034568787/2956109864",
+    "admob_banner": "/21753324030,22764336884/com.photostick.textonphotoeditor.photoeditor.neonphoto.cartoonphotoed_Banner",
+    "admob_interstitial": "/21753324030,22764336884/com.photostick.textonphotoeditor.photoeditor.neonphoto.cartoonphotoed_Interstitial",
+    "admob_native": "/21753324030,22764336884/com.photostick.textonphotoeditor.photoeditor.neonphoto.cartoonphotoed_Native",
     "ad_type": "1",
     "new_pkg": "com.abc.backgrounderaser",
     "is_version": "false"
