@@ -5,9 +5,9 @@
     "fb_mid_rect": "3089513901281664_3089516534614734",
     "admob_pub_id": "pub-8532501034568787",
     "admob_app_id": "ca-app-pub-8532501034568787~3554875665",
-    "admob_banner": "ca-app-pub-8532501034568787/7302548981",
-    "admob_interstitial": "ca-app-pub-8532501034568787/4380872177",
-    "admob_native": "ca-app-pub-8532501034568787/4676385647",
+    "admob_banner": "/21753324030,22764336884/com.photostick.photoeditor.photoframe.mirrorimage.photoeffect.photo_Banner",
+    "admob_interstitial": "/21753324030,22764336884/com.photostick.photoeditor.photoframe.mirrorimage.photoeffect.photo_Interstitial",
+    "admob_native": "/21753324030,22764336884/com.photostick.photoeditor.photoframe.mirrorimage.photoeffect.photo_Native",
     "ad_type": "1",
     "new_pkg": "com.abc.collage",
     "is_version": "false"
