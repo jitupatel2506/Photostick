@@ -17,6 +17,7 @@
   "admob_app_id": "ca-app-pub-8295793237549637~1512167265",
   "adType": "admob",
   "adStatus": "admob",
+  "adNativeCount":15,
   "loadMore":false,
   "Advertise_List": [
     {
